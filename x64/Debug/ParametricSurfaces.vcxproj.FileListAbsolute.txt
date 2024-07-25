@@ -1,0 +1,16 @@
+C:\Users\ezsan\Documents\Egyetem\6. felev\Grafika\ParametricSurfaces\x64\Debug\ParametricSurfaces.vcxproj.CopyComplete
+C:\Users\ezsan\Documents\Egyetem\6. felev\Grafika\ParametricSurfaces\x64\Debug\ParametricSurfaces.exe
+C:\Users\ezsan\Documents\Egyetem\6. felev\Grafika\ParametricSurfaces\x64\Debug\glew32d.dll
+C:\Users\ezsan\Documents\Egyetem\6. felev\Grafika\ParametricSurfaces\x64\Debug\SDL2d.dll
+C:\Users\ezsan\Documents\Egyetem\6. felev\Grafika\ParametricSurfaces\x64\Debug\SDL2_imaged.dll
+C:\Users\ezsan\Documents\Egyetem\6. felev\Grafika\ParametricSurfaces\x64\Debug\jpeg62.dll
+C:\Users\ezsan\Documents\Egyetem\6. felev\Grafika\ParametricSurfaces\x64\Debug\libpng16d.dll
+C:\Users\ezsan\Documents\Egyetem\6. felev\Grafika\ParametricSurfaces\x64\Debug\zlibd1.dll
+C:\Users\ezsan\Documents\Egyetem\Bsc\6. felev\Grafika\Gyak\ParametricSurfaces\x64\Debug\ParametricSurfaces.exe
+C:\Users\ezsan\Documents\Egyetem\Bsc\6. felev\Grafika\Gyak\ParametricSurfaces\x64\Debug\ParametricSurfaces.vcxproj.CopyComplete
+C:\Users\ezsan\Documents\Egyetem\Bsc\6. felev\Grafika\Gyak\ParametricSurfaces\x64\Debug\glew32d.dll
+C:\Users\ezsan\Documents\Egyetem\Bsc\6. felev\Grafika\Gyak\ParametricSurfaces\x64\Debug\SDL2d.dll
+C:\Users\ezsan\Documents\Egyetem\Bsc\6. felev\Grafika\Gyak\ParametricSurfaces\x64\Debug\SDL2_imaged.dll
+C:\Users\ezsan\Documents\Egyetem\Bsc\6. felev\Grafika\Gyak\ParametricSurfaces\x64\Debug\jpeg62.dll
+C:\Users\ezsan\Documents\Egyetem\Bsc\6. felev\Grafika\Gyak\ParametricSurfaces\x64\Debug\libpng16d.dll
+C:\Users\ezsan\Documents\Egyetem\Bsc\6. felev\Grafika\Gyak\ParametricSurfaces\x64\Debug\zlibd1.dll
